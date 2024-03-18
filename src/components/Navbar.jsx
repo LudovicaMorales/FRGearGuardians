@@ -3,11 +3,12 @@ import { Dialog } from "@headlessui/react";
 import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
 import Logo from "../assets/Logo.png";
 import React from "react";
+import { Link } from "react-router-dom";
 
 const Navbar = () => {
   const navigation = [
-    { name: "Servicio y Mantenimiento", href: "#" },
-    { name: "Citas", href: "#" },
+    { name: "Servicio y Mantenimiento", href: "/services" },
+    { name: "Citas", href: "/schedule" },
     { name: "Sedes", href: "#" },
     { name: "Contacto", href: "#" },
   ];
@@ -24,7 +25,9 @@ const Navbar = () => {
           <div className="flex lg:flex-1">
             <a href="#" className="-m-1.5 p-1.5">
               <span className="sr-only">Your Company</span>
-              <img className="h-8 w-auto" src={Logo} alt="" />
+              <Link to='/'>
+                <img className="h-8 w-auto" src={Logo} alt="" />
+              </Link>
             </a>
           </div>
           <div className="flex lg:hidden">
