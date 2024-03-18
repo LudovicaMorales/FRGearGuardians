@@ -9,8 +9,8 @@ const Navbar = () => {
   const navigation = [
     { name: "Servicio y Mantenimiento", href: "/services" },
     { name: "Citas", href: "/schedule" },
+    { name: "Seguimiento", href: "/consult" },
     { name: "Sedes", href: "#" },
-    { name: "Contacto", href: "#" },
   ];
 
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
