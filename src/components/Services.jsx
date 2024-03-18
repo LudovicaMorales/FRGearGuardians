@@ -13,10 +13,9 @@ const Services = () => {
               <div class="h-1 w-20 bg-indigo-500 rounded"></div>
             </div>
             <p class="lg:w-1/2 w-full leading-relaxed text-gray-500">
-              Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical
-              gentrify, subway tile poke farm-to-table. Franzen you probably
-              haven't heard of them man bun deep jianbing selfies heirloom prism
-              food truck ugh squid celiac humblebrag.
+              ¡Mantén tu moto en perfecto estado!<br/>En Gear Guardians, tu taller
+              de confianza, te ofrecemos una amplia gama de servicios para el
+              mantenimiento y reparación de tu moto.
             </p>
           </div>
           <div class="flex flex-wrap -m-4">
@@ -28,14 +27,13 @@ const Services = () => {
                   alt="content"
                 />
                 <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font">
-                  SUBTITLE
+                  Servicios
                 </h3>
                 <h2 class="text-lg text-gray-900 font-medium title-font mb-4">
-                  Chichen Itza
+                  Mantenimiento Preventivo
                 </h2>
                 <p class="leading-relaxed text-base">
-                  Fingerstache flexitarian street art 8-bit waistcoat.
-                  Distillery hexagon disrupt edison bulbche.
+                Revisiones completas y personalizadas.<br/>Cambio de aceite y filtros.<br/>Ajuste de niveles y sistemas.
                 </p>
               </div>
             </div>
@@ -47,14 +45,13 @@ const Services = () => {
                   alt="content"
                 />
                 <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font">
-                  SUBTITLE
+                  Servicios
                 </h3>
                 <h2 class="text-lg text-gray-900 font-medium title-font mb-4">
-                  Colosseum Roma
+                  Reparaciones
                 </h2>
                 <p class="leading-relaxed text-base">
-                  Fingerstache flexitarian street art 8-bit waistcoat.
-                  Distillery hexagon disrupt edison bulbche.
+                Mecánica general y especializada.<br/>Diagnóstico y presupuesto sin compromiso.<br/>Reparaciones con garantía.
                 </p>
               </div>
             </div>
@@ -66,14 +63,13 @@ const Services = () => {
                   alt="content"
                 />
                 <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font">
-                  SUBTITLE
+                  Servicios
                 </h3>
                 <h2 class="text-lg text-gray-900 font-medium title-font mb-4">
-                  Great Pyramid of Giza
+                  Garantía
                 </h2>
                 <p class="leading-relaxed text-base">
-                  Fingerstache flexitarian street art 8-bit waistcoat.
-                  Distillery hexagon disrupt edison bulbche.
+                Garantía en las reparaciones.<br/>Repuestos originales de la marca.<br/>Mano de obra altamente cualificada.
                 </p>
               </div>
             </div>
@@ -85,14 +81,13 @@ const Services = () => {
                   alt="content"
                 />
                 <h3 class="tracking-widest text-indigo-500 text-xs font-medium title-font">
-                  SUBTITLE
+                  Tienda
                 </h3>
                 <h2 class="text-lg text-gray-900 font-medium title-font mb-4">
-                  San Francisco
+                  Repuestos y Accesorios
                 </h2>
                 <p class="leading-relaxed text-base">
-                  Fingerstache flexitarian street art 8-bit waistcoat.
-                  Distillery hexagon disrupt edison bulbche.
+                Amplia gama de productos para todas las marcas.<br/>Accesorios para personalizar tu moto.
                 </p>
               </div>
             </div>
